@@ -1,0 +1,18 @@
+1. Triangle Rendering
+2. Bounding volume Implementation, optimization
+3. Temporal reprojection
+4. Start value of just Color of object
+5. Gausian Blur
+6. Blue noise Sampling
+7. Bakable Lightmaps for static objects
+
+Implementations
+
+Trace Function Improvements:
+	BVH traversal for reduced Checks
+
+Shade Improvements:
+	
+
+MIS: Shade input to trace
+History Buffer: Add shader
